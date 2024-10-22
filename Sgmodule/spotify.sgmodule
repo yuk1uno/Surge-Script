@@ -1,6 +1,6 @@
 #!name=Spotify Premium
 #!desc=FUCK Premium
-
+#!category=FUCK Premium
 
 [Header Rewrite]
 http-request ^https:\/\/spclient\.wg\.spotify\.com\/user-customization-service\/v1\/customize$ header-del if-none-match
