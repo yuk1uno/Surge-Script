@@ -1,5 +1,6 @@
 #!name = 高德地图去广告
 #!desc = FUCK高德广告
+#!category=FUCK Advertising
 
 [Script]
 高德地图 = type=http-response,pattern=^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch$,script-path=https://raw.githubusercontent.com/yuk1uno/Surge-Script/main/Scripts/header.js,timeout=60
